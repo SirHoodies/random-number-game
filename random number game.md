@@ -26,3 +26,5 @@
     }
 
     console.log(game(5,'Name 1', 'Name 2')); //you can also use 'document.write' instead of 'console.log' (if youre a loser)
+    
+this is a VERY bad and crude game but it works so idc.
