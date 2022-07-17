@@ -25,4 +25,4 @@
             return (name2+ " won the game with "+count2+" points!!")
     }
 
-    console.log(game(5,'Name 1', 'Name 2'));
+    console.log(game(5,'Name 1', 'Name 2')); //you can also use 'document.write' instead of 'console.log' (if youre a loser)
